@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old landline phone
+* source:	https://sketchfab.com/3d-models/old-landline-phone-863608d05c8447559a4ebabae007c8c1
+* author:	Alice Solo (https://sketchfab.com/user12350)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old landline phone" (https://sketchfab.com/3d-models/old-landline-phone-863608d05c8447559a4ebabae007c8c1) by Alice Solo (https://sketchfab.com/user12350) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
